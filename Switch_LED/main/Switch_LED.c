@@ -5,7 +5,7 @@
 
 void app_main(void)
 {
-    // สร้างตัวแปรเพื่อเก็บสถานะของสวิตช์และ LED
+    // สร้างตัวแปรเพื่อเก็บสถานะของสวิตช์ และ LED
     int SW1_Status=0;
     int LED1_Status=0;
     int SW2_Status=0;
