@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # ESP-IDF Build files
 build/
@@ -26,3 +27,6 @@ dependencies.lock
 # Temporary files
 *.tmp
 *.temp
+=======
+/Switch_LED/build
+>>>>>>> 0c8937176d3f34b89af79ca1db5e9f29f5c23f66
